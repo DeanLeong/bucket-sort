@@ -23,6 +23,10 @@ In action, bucket sort proceeds by:
 1. Sort each bucket.
 1. **Gather** the elements by sequentially pushing the contents of the buckets back into the original single array.
 
+Let's visualize this: 
+
+https://www.cs.usfca.edu/~galles/visualization/BucketSort.html
+
 ## Big O Complexity
 
 ### Worst Case Complexity: `O(n^2)`
