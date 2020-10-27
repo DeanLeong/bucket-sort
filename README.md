@@ -41,3 +41,7 @@ It the set of elements are uniformly distributed in the buckets with a nearly eq
 
 ![](chart11.png)
 ![](unif.jpg)
+
+## Bucket Sort Exercise
+
+In this repo, you'll find 2 possible solutions for an implementation of bucket sort. Choose one of the solutions, and in pairs, have one group member share their screen; use line-by-line comments and console.logs to your benefit to understand the moving pieces of a bucket sort.
