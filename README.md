@@ -29,9 +29,7 @@ In action, bucket sort proceeds by:
 
 If the set of elements to be sorted are too dense, they may all be placed into a single bucket, making buckets unevenly distributed; similarly, if the elements are too spread out, you may create empty buckets.
 
-This expands the complexity 
-
-The complexity becomes even worse when the elements are in reverse order. If insertion sort is used to sort elements of the bucket, then the time complexity becomes O(n2).
+The complexity becomes even worse when the elements are in reverse order. If insertion sort is used to sort elements of the bucket, then the time complexity becomes `O(n^2)`.
 
 ### Best Case Complexity: `O(n+k)`
 
